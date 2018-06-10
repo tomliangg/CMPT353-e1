@@ -10,7 +10,7 @@
 
 <div class="wikicontents creole tex2jax_ignore"><p>Due <span title="2018-05-18T23:59:59-07:00">Friday May 18 2018</span>.</p>
 <p>This exercise is designed to help you get used to the NumPy and Pandas APIs. To force you to do this, <strong>you may not write any loops</strong> in your code: no <code>for</code>, no <code>while</code>, no list comprehensions, no recursion. All iteration can be handled by calls to relevant functions in the libraries that will iterate for you.</p>
-<p>Some files are provided that you need below: <a href="E1.zip">E1.zip</a>.</p>
+<p>Some files are provided that you need below: <a href="e1.zip">E1.zip</a>.</p>
 <h2 id="h-python-libraries">Python Libraries</h2>
 <p>Before you get started, you will need some Python libraries installed. See the <a href="InstallingPython">InstallingPython</a> page for some ways to do that and instructions. </p>
 <p>For this week, you'll need at least the <code>numpy</code>, <code>pandas</code>, <code>statsmodels</code>, and <code>jupyter</code> libraries. You can install the others mentioned there if you like: they will be used later in the course.</p>
