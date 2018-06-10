@@ -3,8 +3,7 @@
 
 <p><a href="https://coursys.sfu.ca/2018su-cmpt-353-d1/pages/AcademicHonesty">Academic Honesty</a>: it's important, as always.</p>
 <p>Below is the exercise description </p>
-
-
+<hr>
 
 <div class="wikicontents creole tex2jax_ignore"><p>Due <span title="2018-05-18T23:59:59-07:00">Friday May 18 2018</span>.</p>
 <p>This exercise is designed to help you get used to the NumPy and Pandas APIs. To force you to do this, <strong>you may not write any loops</strong> in your code: no <code>for</code>, no <code>while</code>, no list comprehensions, no recursion. All iteration can be handled by calls to relevant functions in the libraries that will iterate for you.</p>
@@ -61,74 +60,3 @@ counts = data['counts']</pre>
 <div class="updateinfo">Updated Wed April 04 2018, 09:20 by ggbaker.
 
 </div>
-
-
-          </div>
-
-          <div class="inherited-parsys below-main"></div>
-        </section>
-
-        <footer>
-            <div>CourSys is hosted by <a href="https://www.sfu.ca/computing.html">SFU Computing Science</a>.</div>
-          <ul>
-            <li><a href="http://www.sfu.ca/admission">Admission</a></li>
-            <li><a href="http://www.sfu.ca/programs">Programs</a></li>
-            <li><a href="http://www.sfu.ca/learning">Learning</a></li>
-            <li><a href="http://www.sfu.ca/research-at-sfu">Research</a></li>
-            <li><a href="http://www.sfu.ca/sfu-community">Community</a></li>
-            <li><a href="http://www.sfu.ca/about">About</a></li>
-          </ul>
-          <ul>
-            <li><a href="http://www.sfu.ca/campuses/maps.html">Maps + directions</a></li>
-            <li><a href="http://www.lib.sfu.ca/">Library</a></li>
-            <li><a href="http://www.sfu.ca/calendar">Academic Calendar</a></li>
-            <li><a href="http://www.sfu.ca/roads">Road Report</a></li>
-            <li><a href="http://www.sfu.ca/advancement">Give to SFU</a></li>
-          </ul>
-
-          <ul>
-            <li class="header">Connect with us</li>
-            <li>
-              <div class="inherited-parsys connect-with-us">
-                <div class="parsys">
-                  <div class="text parbase section">
-                    <div class="">
-                      <p><a href="http://www.facebook.com/simonfraseruniversity">Facebook</a><br>
-                      <a href="http://www.twitter.com/sfu">Twitter</a><br>
-                      <a href="http://www.youtube.com/user/SFUNews">YouTube</a>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </li>
-          </ul>
-
-          <ul>
-            <li class="header"><a href="http://www.sfu.ca/clf/contact.html">Contact us</a></li>
-
-            <li>
-              <div class="inherited-parsys contact-us">
-                <div class="parsys">
-                  <div class="text parbase section">
-                    <div class="">
-                      <p>Simon Fraser University<br>
-                      8888 University Drive<br>
-                      Burnaby, B.C.<br>
-                      Canada V5A 1S6</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </li>
-          </ul>
-
-          <ul>
-            <li><div class="inherited-parsys footer-right"></div></li>
-            <li><a href="http://www.sfu.ca/contact/terms-conditions.html">Terms and conditions</a></li>
-            <li>© Simon Fraser University</li>
-          </ul>
-        </footer>
-      </div>
-    </div>
-  </div>
