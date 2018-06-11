@@ -3,7 +3,7 @@
 
 <p><a href="https://coursys.sfu.ca/2018su-cmpt-353-d1/pages/AcademicHonesty">Academic Honesty</a>: it's important, as always.</p>
 <br/>
-<p> The goal of this exercise is to help you get familiar with Anaconda, Jupyter Notebook, Python Numpy module, Python Pandas module, and Matplotlib module. You will get to play with Numpy and Pandas api to load data from different sources, manipulate and reshape the data. Moreover, the you will use matplotlib to help you visualize the data in a more presentable way.
+<p> The goal of this exercise is to help you get familiar with Anaconda, Jupyter Notebook, Python Numpy module, Python Pandas module, and Matplotlib module. You will get to play with Numpy and Pandas api to load data from different sources, manipulate and reshape the data. Moreover, the you will use matplotlib to help you visualize the data in a more presentable way.</p>
  <br />
 <p>Below is the exercise description </p>
 <hr>
